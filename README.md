@@ -2,7 +2,8 @@
 This GNOME Shell extension replaces the "Activities" lettering by an Arch Linux icon.
 
 ### Screenshot
-![Screenshot](https://github.com/simon04/gnome-shell-extension-arch-linux-icon/raw/master/screenshot.png)
+![Screenshot](https://github.com/simon04/gnome-shell-extension-arch-linux-icon/raw/master/screenshot_before.png)
+![Screenshot](https://github.com/simon04/gnome-shell-extension-arch-linux-icon/raw/master/screenshot_after.png)
 
 ### Installation Instructions
 1. Install Arch Linux package `archlinux-artwork`
