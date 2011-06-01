@@ -1,7 +1,10 @@
-# Arch Linux Activities Icon
+## Arch Linux Activities Icon
 This GNOME Shell extension replaces the "Activities" lettering by an Arch Linux icon.
 
-## Installation Instructions
+### Screenshot
+![Screenshot](https://github.com/simon04/gnome-shell-extension-weather/raw/master/screenshot.png)
+
+### Installation Instructions
 1. Install Arch Linux package `archlinux-artwork`
 2. Provide symlink to an icon:
 > `mkdir -p ~/.local/share/icons`
