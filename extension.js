@@ -22,8 +22,6 @@ const Main = imports.ui.main;
 
 function main() {
 
-  return
-
   activities = Main.panel.button;
 
   let logo = new St.Icon({
