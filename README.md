@@ -3,6 +3,7 @@ This GNOME Shell extension replaces the "Activities" lettering by an Arch Linux 
 
 ### Screenshot
 ![Screenshot](https://github.com/simon04/gnome-shell-extension-arch-linux-icon/raw/master/screenshot_before.png)
+→
 ![Screenshot](https://github.com/simon04/gnome-shell-extension-arch-linux-icon/raw/master/screenshot_after.png)
 
 ### Installation Instructions
